@@ -163,7 +163,7 @@ Isi kolom **Perkiraan Status** sebelum menjalankan request. Jalankan request di 
 
 | Nomor | Skenario | Perkiraan Status | Status Aktual | Ringkasan Respons | Perubahan Database | Kesimpulan |
 | :---: | :--- | :---: | :---: | :--- | :--- | :--- |
-| 1 | GET `/api/kelas` | | | | | |
+| 1 | GET `/api/kelas` |hhh | | | | |
 | 2 | GET `/api/jenis-kelamin` | | | | | |
 | 3 | GET `/api/siswa` | | | | | |
 | 4 | GET `/api/pendaftaran-osis` (Daftar pendaftaran & relasi) | | | | | |
